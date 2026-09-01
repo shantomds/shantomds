@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shantomds/shantomds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shanto Ahmed
 
-Here are some ideas to get you started:
+Developer and designer from Bangladesh.
+I build practical tools and cinematic product visuals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://spectra-portfolio.pages.dev) · [Behance](https://www.behance.net/shantoahmed0)
+
+</div>
+
+## Featured project: TransferIT
+
+Free phone ⇄ PC file transfer over WiFi. No install, no cloud, nothing leaves your network.
+
+- Scan a QR code with your phone and send files instantly, both directions
+- Live progress, speed and ETA, photo thumbnails, resumable transfers
+- Single portable exe, runs on any Windows 10 or 11 PC
+- 100% free, use it and share it freely
+
+Download: _Gumroad link coming soon_
+
+## What I do
+
+- Video editing and motion design: product reels and commercials
+- Web design and development
+- Automation tools that do the boring work
+
+## Find me
+
+- Behance: [behance.net/shantoahmed0](https://www.behance.net/shantoahmed0)
+- Portfolio: [spectra-portfolio.pages.dev](https://spectra-portfolio.pages.dev)
