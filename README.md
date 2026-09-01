@@ -18,7 +18,7 @@ Free phone ⇄ PC file transfer over WiFi. No install, no cloud, nothing leaves 
 - Single portable exe, runs on any Windows 10 or 11 PC
 - 100% free, use it and share it freely
 
-Download: _Gumroad link coming soon_
+Download free on Gumroad: [shantomds.gumroad.com/l/transferit](https://shantomds.gumroad.com/l/transferit)
 
 ## What I do
 
