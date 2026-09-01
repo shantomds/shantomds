@@ -2,10 +2,10 @@
 
 # Shanto Ahmed
 
-Developer and designer from Bangladesh.
-I build practical tools and cinematic product visuals.
+Graphics designer from Bangladesh.
+Visuals that sell: product designs, thumbnails, posters, social media creatives and cinematic product reels. I also build practical tools when the mood hits.
 
-[Portfolio](https://spectra-portfolio.pages.dev) · [Behance](https://www.behance.net/shantoahmed0)
+[Portfolio](https://spectra-portfolio.pages.dev) · [Behance](https://www.behance.net/shantoahmed0) · [Pinterest](https://www.pinterest.com/itsSteven986/) · [Facebook](https://www.facebook.com/itssteve.meta2)
 
 </div>
 
@@ -22,11 +22,13 @@ Download: _Gumroad link coming soon_
 
 ## What I do
 
+- Graphics design: product visuals, thumbnails, posters, social media creatives
 - Video editing and motion design: product reels and commercials
-- Web design and development
-- Automation tools that do the boring work
+- Web design and practical automation tools
 
 ## Find me
 
-- Behance: [behance.net/shantoahmed0](https://www.behance.net/shantoahmed0)
 - Portfolio: [spectra-portfolio.pages.dev](https://spectra-portfolio.pages.dev)
+- Behance: [behance.net/shantoahmed0](https://www.behance.net/shantoahmed0)
+- Pinterest: [pinterest.com/itsSteven986](https://www.pinterest.com/itsSteven986/)
+- Facebook: [facebook.com/itssteve.meta2](https://www.facebook.com/itssteve.meta2)
